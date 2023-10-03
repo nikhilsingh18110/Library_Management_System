@@ -1,0 +1,134 @@
+body
+{
+	background-image : url("maxresdefault.jpg");
+	background-repeat : no-repeat;
+	background-position : center;
+}
+
+a
+{
+	text-decoration : none;
+}
+
+.home
+{
+	margin-right : 10%;
+	margin-left : 10%;
+}
+
+.reg a
+{
+	text-decoration : none;
+}
+
+.home a 
+{
+	text-decoration : none;
+}
+
+.grad1
+{
+	border-radius : 10px;
+	background-color : #214B8C;
+	opacity : 60%;
+	margin-left : 20%;
+	margin-right : 20%;
+}
+
+.row
+{
+	border-radius : 20px:
+}
+
+.row1
+{
+	border-radius : 20px:
+}
+
+.option
+{
+	text-decoration : none;
+}
+
+.admin1 a
+{
+	text-decoration : none;
+	color : white;
+}
+
+.view_student
+{
+	border-radius : 20px;
+	background-color : black;
+	opacity : 40%;
+	margin-left : 8%;
+	margin-right : 8%;
+}
+
+.view_book
+{
+	border-radius : 20px;
+	background-color : black;
+	opacity : 40%;
+	margin-left : 15%;
+	margin-right : 15%;
+}
+
+.grad
+{
+	background: -webkit-linear-gradient(red, blue);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.main_menu
+{
+	border-radius : 5px;
+	background-color : #dfd2d7;
+	margin-left : 25%;
+	margin-right : 25%; 
+}
+
+.pic img
+{
+	border-radius : 10px;
+	opacity : 85%;
+	box-shadow : 15px 15px 3px;
+}
+
+.main_menu a
+{
+	text-decoration : none;
+	color : #214B8C;
+}
+
+.content1
+{
+	background-color : #dfd2d7;
+	border-radius : 5px;
+}
+
+.new
+{
+	background-color : #214B8C;
+	border-radius : 5px;
+}
+
+.login
+{
+	align-items : center;
+	margin-left : 25%;
+	width : 50%;
+	background-color : black;
+	border-radius : 10px;
+	opacity : 50%;
+}
+
+.name
+{
+	display : flex;
+	align-items : center;
+	background-color : #214B8C;
+	border-radius : 25px;
+}
+
